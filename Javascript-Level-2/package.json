@@ -1,0 +1,36 @@
+{
+  "name": "javascript-level-2",
+  "version": "1.0.0",
+  "description": "Complete JavaScript Level 2: Functions & Advanced JavaScript — English + Thunglish, examples, 30 interview questions, 20 coding challenges, 38 exercises, and 3 mini projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "project:1": "node mini-projects/fn-utils/fn-utils.js",
+    "project:2": "node mini-projects/bank-account/bank-account.js",
+    "project:3": "node mini-projects/middleware-runner/middleware-runner.js",
+    "predictions": "node interview/output-prediction.js",
+    "module:01": "node 01-function-fundamentals/function-fundamentals.js",
+    "module:08": "node 08-closures/closures.js",
+    "module:09": "node 09-this-keyword/this-keyword.js",
+    "module:10": "node 10-call-apply-bind/call-apply-bind.js",
+    "module:12": "node 12-recursion/recursion.js",
+    "module:13": "node 13-currying/currying.js",
+    "module:16": "node 16-function-composition/function-composition.js",
+    "module:17": "node 17-memoization/memoization.js",
+    "module:20": "node 20-execution-context-call-stack/execution-context.js"
+  },
+  "keywords": [
+    "javascript",
+    "closures",
+    "this",
+    "currying",
+    "higher-order-functions",
+    "call-apply-bind",
+    "recursion",
+    "memoization",
+    "execution-context",
+    "level-2"
+  ],
+  "author": "Jerome Larens",
+  "license": "MIT"
+}

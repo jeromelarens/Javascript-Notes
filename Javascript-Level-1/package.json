@@ -1,0 +1,33 @@
+{
+  "name": "javascript-level-1",
+  "version": "1.0.0",
+  "description": "Complete JavaScript Level 1 Fundamentals — English + Thunglish, examples, interview questions, problem solving, exercises, and mini project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "project": "node mini-project/report-card.js",
+    "prediction": "node interview/output-prediction.js",
+    "module:01": "node 01-variables/variables.js",
+    "module:02": "node 02-data-types/data-types.js",
+    "module:03": "node 03-type-conversion/type-conversion.js",
+    "module:04": "node 04-operators/operators.js",
+    "module:05": "node 05-equality/equality.js",
+    "module:06": "node 06-conditionals/conditionals.js",
+    "module:07": "node 07-loops/loops.js",
+    "module:08": "node 08-functions/functions.js",
+    "module:09": "node 09-arrow-functions/arrow-functions.js",
+    "module:10": "node 10-scope/scope.js",
+    "module:11": "node 11-hoisting/hoisting.js",
+    "module:12": "node 12-truthy-falsy/truthy-falsy.js"
+  },
+  "keywords": [
+    "javascript",
+    "fundamentals",
+    "beginner",
+    "thunglish",
+    "interview-preparation",
+    "coding-problems"
+  ],
+  "author": "Jerome Larens",
+  "license": "MIT"
+}
